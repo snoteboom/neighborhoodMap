@@ -25,4 +25,4 @@ Foursquare API is used to pull more information on my favorite locations and pro
 Clone or download this repo and open the index.html file in your browser.
 You can add whatever locations you'd like in the "makers.js" file. 
 ## Live Example
-You can find a live running site of this code [here](https://rawgit.com/sydNoteboom/neighborhoodMap/master/index.html).
+You can find a live running site of this code [here](https://rawgit.com/snoteboom/neighborhoodMap/master/index.html).
