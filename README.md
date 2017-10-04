@@ -14,8 +14,7 @@ CSS - Two files make up the CSS files that are local. Bootstrap CSS is CDN based
 HTML - `Index.html` is where all the magic happens and all the data is binded.
 
 ## Features
-A Google Maps implementation that shows you the som of my favorite places growing up.
-You get a full screen Google Map, populated with my favorite locations, along with a sidebar with a list of the locations that can be clicked on and also filtered so you can nail down what you want without any other distractions.
+A Google Maps implementation that shows you the some places in san jose.
 
 ## APIs
 Google Maps API is used here to show the map and generate the markers etc.
